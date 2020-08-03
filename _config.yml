@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Prahalathan Sundaramoorthy"
-  avatar           : "profile.png"
+  avatar           : "Professional_Photo.jpg"
   bio              : "Master's student at the University of Southern California. Specializing in machine learning and big data"
   location         : "Los Angeles, California, United States"
   employer         : "Research Intern at HP Labs"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/prahalath"
+  github           : "www.github.com/prahalath"
   google_plus      :
   keybase          :
   instagram        :
