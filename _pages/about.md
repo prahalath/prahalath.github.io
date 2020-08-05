@@ -15,3 +15,6 @@ I am Prahalathan Sundaramoorthy, a Master's student at the University of Souther
 I am currently a research intern at HP Labs, Palo Alto, California, for the summer. I'm working at the intersection of time-series signal processing and machine learning. 
 
 In my time away from coding, I deeply enjoy understanding the human brain through Philosophy. I also love listening to music, and playing Badminton. 
+
+My favorite quote:
+> _"What you sow, so you reap"_
