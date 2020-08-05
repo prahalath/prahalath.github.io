@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper is about designing an efficient deep learning architecture capable to run on smartphones. The data from sensor is used to perform Human Activity Recognition.'
+date: June, 2018
+venue: 'Proceedings of the 2nd International Workshop on Embedded and Mobile Deep Learning, ACM MobiSys'
+paperurl: 'http://prahalath.github.io/files/harnet.pdf'
+citation: 'Prahalathan Sundaramoorthy, Gautham Krishna Gudur, Manav Rajiv Moorthy, R Nidhi Bhandari, Vineeth Vijayaraghavan, "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices", ACM MobiSys 2018, 2nd International Workshop on Embedded and Mobile Deep Learning, Munich, Germany.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here]('http://prahalath.github.io/files/harnet.pdf')
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+'Prahalathan Sundaramoorthy, Gautham Krishna Gudur, Manav Rajiv Moorthy, R Nidhi Bhandari, Vineeth Vijayaraghavan, "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices", ACM MobiSys 2018, 2nd International Workshop on Embedded and Mobile Deep Learning, Munich, Germany.'

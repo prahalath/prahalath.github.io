@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Current peak based Device Classification in NILM on a low-cost embedded platform using Extra-trees"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Efficient classification model for low-cost Non-Intrusive Load Monitoring'
+date: November, 2017
+venue: '2017 IEEE MIT Undergraduate Research Technology Conference (URTC), Massachusetts Institute of Technology, Cambridge, MA, 2017'
+paperurl: 'http://prahalath.github.io/files/nilm.pdf'
+citation: 'A. K. Jain, S. S. Ahmed, P. Sundaramoorthy, R. Thiruvengadam, V. Vijayaraghavan, "Current peak based Device Classification in NILM on a low-cost embedded platform using Extra-trees," 2017 IEEE MIT Undergraduate Research Technology Conference (URTC), Massachusetts Institute of Technology, Cambridge, MA, 2017.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://prahalath.github.io/files/nilm.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: A. K. Jain, S. S. Ahmed, P. Sundaramoorthy, R. Thiruvengadam, V. Vijayaraghavan, "Current peak based Device Classification in NILM on a low-cost embedded platform using Extra-trees," 2017 IEEE MIT Undergraduate Research Technology Conference (URTC), Massachusetts Institute of Technology, Cambridge, MA, 2017.
