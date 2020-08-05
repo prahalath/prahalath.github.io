@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prahalathan's personal website"
+title                    : "Prahalathan's Homepage"
 title_separator          : "-"
 name                     : &name "Prahalathan Sundaramoorthy"
 description              : &description "personal description"
