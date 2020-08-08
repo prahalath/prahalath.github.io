@@ -17,4 +17,4 @@ I am currently a research intern at HP Labs, Palo Alto, California, for the summ
 In my time away from coding, I deeply enjoy understanding the human brain through Philosophy. I also love listening to music, and playing Badminton. 
 
 My favorite quote:
-> _"What you sow, so you reap"_
+> _"As you sow, so shall you reap"_
