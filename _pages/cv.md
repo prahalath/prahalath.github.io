@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Prahalathan's Resume](http://prahalath.github.io/files/resume.pdf)
+[Prahalathan's Resume](http://prahalath.github.io/files/Prahalathan_Sundaramoorthy_resume.pdf)
